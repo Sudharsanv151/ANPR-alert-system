@@ -33,6 +33,24 @@ This project aims to develop an Automatic Number Plate Recognition (ANPR) and Al
 - Tkinter
 - Pillow
 
+## Screenshots:
+![ui](https://github.com/user-attachments/assets/efb1e664-83e3-4fe7-9ff2-09e85172b670)
+
+![allow car](https://github.com/user-attachments/assets/a1a1e8ac-b476-4949-9ed7-57eed16551bd)
+
+![inspect car](https://github.com/user-attachments/assets/18596aaf-1464-4bee-b630-b05cff24c973)
+
+![Text file](https://github.com/user-attachments/assets/9403851f-cf03-4013-834a-264cf8d97b98)
+
+![SMS received](https://github.com/user-attachments/assets/f2a7aee6-a70f-40eb-9ef5-2fc76b8787d0)
+
+
+Database:
+![DB](https://github.com/user-attachments/assets/ea5d452b-9ac3-41c7-b74d-2848d382cecd)
+
+![DB structure](https://github.com/user-attachments/assets/c72cd3af-f731-43f1-9358-17f960a00a1c)
+
+
 ## Setup Instructions:
 1. Clone the repository: `git clone https://github.com/Sudharsanv151/ANPR-alert-system.git`
 2. Install dependencies: `pip install -r requirements.txt`
